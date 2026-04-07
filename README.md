@@ -48,7 +48,7 @@ Esta é a visão principal do dashboard, onde os indicadores ficam organizados d
 ### Mentore — Plataforma de Mentoria para Mulheres
 Plataforma de mentoria voltada para mulheres empreendedoras, criada para conectar quem está desenvolvendo o próprio negócio a especialistas capazes de orientar, apoiar e acelerar esse processo. O projeto foi pensado como uma landing page com foco em clareza, identidade visual e conversão.
 
-🔗 Acesse o projeto: [mentore.se](https://www.mentore.se)
+🔗 Acesse o projeto: <a href="https://www.mentore.se" target="_blank" rel="noopener noreferrer">mentore.se</a>
 
 #### Mentore — Seção Principal
 A seção principal apresenta a proposta da plataforma de forma direta, destacando o foco em crescimento pessoal e desenvolvimento empreendedor feminino. O visual foi construído para causar uma boa primeira impressão e comunicar rapidamente a identidade do projeto.
