@@ -62,6 +62,3 @@ Nesta parte, o objetivo foi mostrar os principais diferenciais da plataforma, co
 Esta seção reforça a credibilidade da plataforma com depoimentos de usuárias e elementos de prova social. A ideia aqui foi tornar a experiência mais próxima e confiável, mostrando como a comunicação visual também pode ajudar a sustentar a proposta do produto.
 
 <img width="556" height="515" alt="mentora04 webp" src="https://github.com/user-attachments/assets/eec7deca-0e37-48cc-ab20-1e2455680394" />
-
-### Portfólio
-- [Portfólio](https://github.com/santiagoNeto-git/portfolio) — portfólio pessoal com projetos de desenvolvimento web, landing pages e dashboards.
