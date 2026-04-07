@@ -33,6 +33,12 @@ A private enterprise analytics platform built to centralize business KPIs, strat
 - Interactive filters, secure authentication, responsive layout, and multilingual support
 - Designed for performance tracking, strategic monitoring, and decision-making
 
+#### UpValue Dashboard — Login Experience
+The UpValue Dashboard login screen was designed to deliver a professional and data-driven first impression. The interface combines a clean authentication panel with strong visual branding, highlighting the platform’s national presence across Brazil and its impact through strategic metrics. The layout emphasizes usability, clarity, and trust, creating a modern entry point for users before accessing the analytics environment.
+
+#### UpValue Dashboard — Performance Overview
+This screen showcases the main performance overview of the UpValue Dashboard. It was designed to provide a clear and structured view of strategic indicators, combining visualization filters, sector analysis, and KPI cards in a clean corporate interface. The layout helps users track results, compare targets, and monitor operational performance efficiently, supporting faster and more informed decision-making.
+
 ### Mentore — Women’s Mentorship Platform
 Mentore is a women-focused mentorship platform designed to connect aspiring and growing entrepreneurs with experienced business mentors. The project was created as a landing page experience that combines strong branding, clear value communication, and trust-building elements such as testimonials, feature highlights, and conversion-driven calls to action.
 
