@@ -23,57 +23,45 @@ I enjoy turning ideas into real products, with a strong focus on front-end exper
 - Working with **SQL Server** and structured back-end logic
 - Focused on **performance**, **usability**, and **clean code**
 
-
-
 ## Featured Projects
 
 ### UpValue Dashboard
-A private enterprise analytics platform built to centralize business KPIs, strategic metrics, and operational insights in a clean, interactive experience.
+Plataforma analítica desenvolvida para centralizar indicadores de negócio, metas estratégicas e acompanhamentos operacionais em uma experiência clara, visual e fácil de navegar.
 
-- **React + TypeScript** frontend
-- **Node.js** backend with API integration
-- Interactive filters, secure authentication, responsive layout, and multilingual support
-- Designed for performance tracking, strategic monitoring, and decision-making
-
-
+- **Frontend em React + TypeScript**
+- **Backend em Node.js** com integração de API
+- Filtros interativos, autenticação segura, layout responsivo e suporte multilíngue
+- Pensado para acompanhamento de performance, leitura de indicadores e apoio à tomada de decisão
 
 #### UpValue Dashboard — Login Experience
-The UpValue Dashboard login screen was designed to deliver a professional and data-driven first impression. The interface combines a clean authentication panel with strong visual branding, highlighting the platform’s national presence across Brazil and its impact through strategic metrics. The layout emphasizes usability, clarity, and trust, creating a modern entry point for users before accessing the analytics environment.
+A tela de login foi pensada para transmitir uma entrada mais profissional e confiável para a plataforma. Além da autenticação, ela ajuda a reforçar a identidade visual do produto e contextualiza a presença da UpValue em diferentes estados do Brasil por meio de elementos visuais e números estratégicos.
 
 <img width="1911" height="911" alt="dashboard-detail webp" src="https://github.com/user-attachments/assets/c224874b-4d10-4a75-890d-1f18ce8e50fc" />
 
-
 #### UpValue Dashboard — Performance Overview
-This screen showcases the main performance overview of the UpValue Dashboard. It was designed to provide a clear and structured view of strategic indicators, combining visualization filters, sector analysis, and KPI cards in a clean corporate interface. The layout helps users track results, compare targets, and monitor operational performance efficiently, supporting faster and more informed decision-making.
+Esta é a visão principal do dashboard, onde os indicadores ficam organizados de forma mais direta e fácil de acompanhar. A interface reúne filtros, leitura por setor e cards de KPI para ajudar no acompanhamento de resultados, comparação de metas e análise da performance operacional no dia a dia.
 
 <img width="1903" height="809" alt="dashboard-overview webp" src="https://github.com/user-attachments/assets/3171c815-29ed-45ef-bee7-d7ad6507f890" />
-
-
 
 ---
 
 ### Mentore — Women’s Mentorship Platform
-Mentore is a women-focused mentorship platform designed to connect aspiring and growing entrepreneurs with experienced business mentors. The project was created as a landing page experience that combines strong branding, clear value communication, and trust-building elements such as testimonials, feature highlights, and conversion-driven calls to action.
-
-
+Plataforma de mentoria voltada para mulheres empreendedoras, criada para conectar quem está desenvolvendo o próprio negócio a especialistas capazes de orientar, apoiar e acelerar esse processo. O projeto foi pensado como uma landing page com foco em clareza, identidade visual e conversão.
 
 #### Mentore — Hero Section
-The hero section introduces Mentore as a women-focused mentorship platform designed to promote personal and entrepreneurial growth. The layout combines strong typography, bold branding, and an engaging visual composition to immediately communicate purpose, identity, and audience.
+A seção principal apresenta a proposta da plataforma de forma direta, destacando o foco em crescimento pessoal e desenvolvimento empreendedor feminino. O visual foi construído para causar uma boa primeira impressão e comunicar rapidamente a identidade do projeto.
 
 <img width="1833" height="701" alt="mentora01 webp" src="https://github.com/user-attachments/assets/4ab8d43f-1bea-45d7-bb3d-5962b20cf892" />
 
-
 #### Mentore — Mentorship Features
-This section highlights the platform’s core value proposition by presenting key features such as one-on-one mentoring, flexible program structures, free evaluation, and a strong satisfaction rate. It was designed to translate credibility and clarity into a visually compelling experience.
+Nesta parte, o objetivo foi mostrar os principais diferenciais da plataforma, como mentoria individual, avaliação inicial gratuita, flexibilidade nos programas e foco em resultados. A composição visual ajuda a deixar a proposta mais clara e passa mais segurança para quem acessa a página.
 
 <img width="902" height="669" alt="mentora03 webp" src="https://github.com/user-attachments/assets/1450ce81-37a6-4384-84c5-4ea2d51e2234" />
 
-
 #### Mentore — Testimonials and Social Proof
-This section was designed to reinforce trust in the platform by combining persuasive copy with testimonial cards from users. It strengthens the product narrative by showing credibility, relatability, and real-world validation through social proof.
+Esta seção reforça a credibilidade da plataforma com depoimentos de usuárias e elementos de prova social. A ideia aqui foi tornar a experiência mais próxima e confiável, mostrando como a comunicação visual também pode ajudar a sustentar a proposta do produto.
 
 <img width="556" height="515" alt="mentora04 webp" src="https://github.com/user-attachments/assets/eec7deca-0e37-48cc-ab20-1e2455680394" />
-
 
 ### Portfolio
 - [Portfolio](https://github.com/santiagoNeto-git/portfolio) — personal portfolio with web development projects, landing pages, and dashboards.
