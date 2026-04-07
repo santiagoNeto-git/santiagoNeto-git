@@ -23,6 +23,15 @@ I enjoy turning ideas into real products, with a strong focus on front-end exper
 - Working with **SQL Server** and structured back-end logic
 - Focused on **performance**, **usability**, and **clean code**
 
-## Featured Project
+## Featured Projects
 
+### UpValue Dashboard
+A private enterprise analytics platform built to centralize business KPIs, strategic metrics, and operational insights in a clean, interactive experience.
+
+- **React + TypeScript** frontend
+- **Node.js** backend with API integration
+- Interactive filters, secure authentication, responsive layout, and multilingual support
+- Designed for performance tracking, strategic monitoring, and decision-making
+
+### Portfolio
 - [Portfolio](https://github.com/santiagoNeto-git/portfolio) — personal portfolio with web development projects, landing pages, and dashboards.
